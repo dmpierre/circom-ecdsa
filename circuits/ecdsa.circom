@@ -1,6 +1,6 @@
 pragma circom 2.0.2;
 
-include "../node_modules/circomlib/circuits/multiplexer.circom";
+include "../../../node_modules/circomlib/circuits/multiplexer.circom";
 
 include "bigint.circom";
 include "secp256k1.circom";
